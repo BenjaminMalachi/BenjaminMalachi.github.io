@@ -1,5 +1,5 @@
 # Typing Game Overview
-If you take this game too seriously, you need to touch some grass, I'm looking at you Andre.
+If you take this game too seriously, you need to touch some grass, I'm looking at you Andre. https://benjaminmalachi.github.io/
 
 ## Instructions
 Click start and start typing the words that come onto the screen. Literally just that, there is nothing else, words get longer the longer you survive, words spawn in from more directions the longer you survive. Good luck.
